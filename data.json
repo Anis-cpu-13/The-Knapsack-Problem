@@ -1,0 +1,402 @@
+[
+	{
+		"weight": 66,
+		"value": 33
+	},
+	{
+		"weight": 96,
+		"value": 90
+	},
+	{
+		"weight": 7,
+		"value": 60
+	},
+	{
+		"weight": 37,
+		"value": 17
+	},
+	{
+		"weight": 38,
+		"value": 4
+	},
+	{
+		"weight": 85,
+		"value": 31
+	},
+	{
+		"weight": 54,
+		"value": 92
+	},
+	{
+		"weight": 86,
+		"value": 78
+	},
+	{
+		"weight": 5,
+		"value": 62
+	},
+	{
+		"weight": 54,
+		"value": 56
+	},
+	{
+		"weight": 53,
+		"value": 52
+	},
+	{
+		"weight": 80,
+		"value": 15
+	},
+	{
+		"weight": 1,
+		"value": 37
+	},
+	{
+		"weight": 29,
+		"value": 74
+	},
+	{
+		"weight": 0,
+		"value": 11
+	},
+	{
+		"weight": 99,
+		"value": 34
+	},
+	{
+		"weight": 59,
+		"value": 34
+	},
+	{
+		"weight": 45,
+		"value": 77
+	},
+	{
+		"weight": 62,
+		"value": 78
+	},
+	{
+		"weight": 98,
+		"value": 79
+	},
+	{
+		"weight": 26,
+		"value": 66
+	},
+	{
+		"weight": 27,
+		"value": 45
+	},
+	{
+		"weight": 75,
+		"value": 3
+	},
+	{
+		"weight": 57,
+		"value": 36
+	},
+	{
+		"weight": 53,
+		"value": 67
+	},
+	{
+		"weight": 32,
+		"value": 11
+	},
+	{
+		"weight": 95,
+		"value": 96
+	},
+	{
+		"weight": 86,
+		"value": 98
+	},
+	{
+		"weight": 4,
+		"value": 61
+	},
+	{
+		"weight": 1,
+		"value": 73
+	},
+	{
+		"weight": 40,
+		"value": 97
+	},
+	{
+		"weight": 44,
+		"value": 27
+	},
+	{
+		"weight": 5,
+		"value": 81
+	},
+	{
+		"weight": 92,
+		"value": 69
+	},
+	{
+		"weight": 34,
+		"value": 73
+	},
+	{
+		"weight": 11,
+		"value": 29
+	},
+	{
+		"weight": 27,
+		"value": 12
+	},
+	{
+		"weight": 33,
+		"value": 79
+	},
+	{
+		"weight": 12,
+		"value": 81
+	},
+	{
+		"weight": 9,
+		"value": 40
+	},
+	{
+		"weight": 44,
+		"value": 30
+	},
+	{
+		"weight": 68,
+		"value": 71
+	},
+	{
+		"weight": 85,
+		"value": 86
+	},
+	{
+		"weight": 85,
+		"value": 18
+	},
+	{
+		"weight": 77,
+		"value": 93
+	},
+	{
+		"weight": 65,
+		"value": 30
+	},
+	{
+		"weight": 73,
+		"value": 62
+	},
+	{
+		"weight": 44,
+		"value": 14
+	},
+	{
+		"weight": 40,
+		"value": 62
+	},
+	{
+		"weight": 83,
+		"value": 87
+	},
+	{
+		"weight": 59,
+		"value": 74
+	},
+	{
+		"weight": 68,
+		"value": 88
+	},
+	{
+		"weight": 87,
+		"value": 37
+	},
+	{
+		"weight": 86,
+		"value": 88
+	},
+	{
+		"weight": 34,
+		"value": 10
+	},
+	{
+		"weight": 97,
+		"value": 17
+	},
+	{
+		"weight": 94,
+		"value": 63
+	},
+	{
+		"weight": 53,
+		"value": 33
+	},
+	{
+		"weight": 97,
+		"value": 64
+	},
+	{
+		"weight": 31,
+		"value": 77
+	},
+	{
+		"weight": 77,
+		"value": 90
+	},
+	{
+		"weight": 19,
+		"value": 67
+	},
+	{
+		"weight": 31,
+		"value": 44
+	},
+	{
+		"weight": 1,
+		"value": 46
+	},
+	{
+		"weight": 17,
+		"value": 59
+	},
+	{
+		"weight": 81,
+		"value": 33
+	},
+	{
+		"weight": 2,
+		"value": 17
+	},
+	{
+		"weight": 4,
+		"value": 37
+	},
+	{
+		"weight": 97,
+		"value": 1
+	},
+	{
+		"weight": 39,
+		"value": 14
+	},
+	{
+		"weight": 61,
+		"value": 51
+	},
+	{
+		"weight": 87,
+		"value": 53
+	},
+	{
+		"weight": 83,
+		"value": 18
+	},
+	{
+		"weight": 49,
+		"value": 63
+	},
+	{
+		"weight": 49,
+		"value": 76
+	},
+	{
+		"weight": 31,
+		"value": 17
+	},
+	{
+		"weight": 69,
+		"value": 56
+	},
+	{
+		"weight": 62,
+		"value": 94
+	},
+	{
+		"weight": 87,
+		"value": 58
+	},
+	{
+		"weight": 37,
+		"value": 86
+	},
+	{
+		"weight": 48,
+		"value": 22
+	},
+	{
+		"weight": 73,
+		"value": 65
+	},
+	{
+		"weight": 59,
+		"value": 80
+	},
+	{
+		"weight": 98,
+		"value": 7
+	},
+	{
+		"weight": 67,
+		"value": 60
+	},
+	{
+		"weight": 88,
+		"value": 97
+	},
+	{
+		"weight": 13,
+		"value": 62
+	},
+	{
+		"weight": 81,
+		"value": 75
+	},
+	{
+		"weight": 79,
+		"value": 78
+	},
+	{
+		"weight": 47,
+		"value": 64
+	},
+	{
+		"weight": 76,
+		"value": 55
+	},
+	{
+		"weight": 82,
+		"value": 49
+	},
+	{
+		"weight": 37,
+		"value": 6
+	},
+	{
+		"weight": 92,
+		"value": 43
+	},
+	{
+		"weight": 73,
+		"value": 30
+	},
+	{
+		"weight": 8,
+		"value": 48
+	},
+	{
+		"weight": 84,
+		"value": 85
+	},
+	{
+		"weight": 30,
+		"value": 75
+	},
+	{
+		"weight": 17,
+		"value": 31
+	},
+	{
+		"weight": 9,
+		"value": 90
+	}
+]
