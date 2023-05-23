@@ -7,17 +7,17 @@ Ce projet, intitulé "The-Knapsack-Problem", explore le problème du sac à dos 
 Pour compiler le projet, utilisez la commande suivante :
 ```bash
 go build
-
+```
 
 Pour exécuter le projet, utilisez la commande suivante :
-
+```bash
 ./Kna...
-
+```
 
 Pour lancer les tests, utilisez la commande suivante :
-
+```bash
 go test -bench=.
-
+```
 ## Fonctionnalités
 
 Le programme principal (main) du projet offre les fonctionnalités suivantes :
